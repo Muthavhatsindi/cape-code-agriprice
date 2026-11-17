@@ -1,0 +1,19 @@
+{
+  "language_name": "Afrikaans",
+  "choose_language": "Welkom by Farm Market. Kies taal:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "welcome": "Welkom, Boer!\n1. Kyk na markpryse\n2. Vergelyk markte\n3. Mark wat die beste betaal\n4. Verander taal\n0. Verlaat",
+  "choose_commodity": "Kies produk:\n1. Tamaties\n2. Mielies\n3. Aartappels\n0. Hoofkieslys",
+  "choose_compare": "Kies produk om te vergelyk:\n1. Tamaties\n2. Mielies\n3. Aartappels\n0. Hoofkieslys",
+  "no_prices": "Geen pryse is tans beskikbaar nie.",
+  "prices_title": "Markpryse vir {commodity}:",
+  "price_line": "{market}: {price} {currency}/{unit}",
+  "updated": "Opgedateer: {updated}",
+  "best_title": "Beste gerapporteerde prys vir {commodity}:",
+  "best_line": "{market}: {price} {currency}/{unit}",
+  "compare_title": "Prysvergelyking vir {commodity}:",
+  "change_language": "Kies taal:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "invalid": "Daardie keuse is ongeldig. Probeer asseblief weer.",
+  "goodbye": "Dankie dat jy Farm Market gebruik. Totsiens!",
+  "demo_notice": "DEMO-DATA – bevestig pryse by die mark voordat jy verkoop.",
+  "help": "Pryse kan volgens gehalte en mark verskil. Bevestig voordat jy reis."
+}

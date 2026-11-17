@@ -1,0 +1,19 @@
+{
+  "language_name": "Kiswahili",
+  "choose_language": "Karibu Farm Market. Chagua lugha:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "welcome": "Karibu, Mkulima!\n1. Angalia bei za soko\n2. Linganisha masoko\n3. Soko lenye bei nzuri zaidi\n4. Badilisha lugha\n0. Toka",
+  "choose_commodity": "Chagua zao:\n1. Nyanya\n2. Mahindi\n3. Viazi\n0. Menyu kuu",
+  "choose_compare": "Chagua zao la kulinganisha:\n1. Nyanya\n2. Mahindi\n3. Viazi\n0. Menyu kuu",
+  "no_prices": "Hakuna bei zinazopatikana kwa sasa.",
+  "prices_title": "Bei za {commodity}:",
+  "price_line": "{market}: {price} {currency}/{unit}",
+  "updated": "Imesasishwa: {updated}",
+  "best_title": "Bei ya juu zaidi iliyoripotiwa ya {commodity}:",
+  "best_line": "{market}: {price} {currency}/{unit}",
+  "compare_title": "Ulinganisho wa bei za {commodity}:",
+  "change_language": "Chagua lugha:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "invalid": "Chaguo hilo si sahihi. Tafadhali jaribu tena.",
+  "goodbye": "Asante kwa kutumia Farm Market. Kwaheri!",
+  "demo_notice": "DATA YA MAJARIBIO – hakikisha bei sokoni kabla ya kuuza.",
+  "help": "Bei zinaweza kutofautiana kulingana na ubora na soko. Hakikisha kabla ya kusafiri."
+}

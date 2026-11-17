@@ -1,0 +1,19 @@
+{
+  "language_name": "isiZulu",
+  "choose_language": "Siyakwamukela ku-Farm Market. Khetha ulimi:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "welcome": "Sawubona, Mlimi!\n1. Bheka amanani emakethe\n2. Qhathanisa izimakethe\n3. Imakethe ekhokha kakhulu\n4. Shintsha ulimi\n0. Phuma",
+  "choose_commodity": "Khetha umkhiqizo:\n1. Utamatisi\n2. Ummbila\n3. Amazambane\n0. Imenyu enkulu",
+  "choose_compare": "Khetha umkhiqizo ozowuqhathanisa:\n1. Utamatisi\n2. Ummbila\n3. Amazambane\n0. Imenyu enkulu",
+  "no_prices": "Awekho amanani atholakalayo okwamanje.",
+  "prices_title": "Amanani ka-{commodity}:",
+  "price_line": "{market}: {price} {currency}/{unit}",
+  "updated": "Kubuyekezwe: {updated}",
+  "best_title": "Intengo ebikiwe ephezulu ka-{commodity}:",
+  "best_line": "{market}: {price} {currency}/{unit}",
+  "compare_title": "Ukuqhathanisa amanani ka-{commodity}:",
+  "change_language": "Khetha ulimi:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "invalid": "Lokho okukhethile akuvumelekile. Zama futhi.",
+  "goodbye": "Siyabonga ngokusebenzisa i-Farm Market. Sala kahle!",
+  "demo_notice": "IDATHA YOKUKHOMBISA – qinisekisa amanani emakethe ngaphambi kokuthengisa.",
+  "help": "Amanani angashintsha kuye ngekhwalithi nemakethe. Qinisekisa emakethe ngaphambi kohambo."
+}

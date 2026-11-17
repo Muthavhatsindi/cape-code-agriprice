@@ -1,0 +1,19 @@
+{
+  "language_name": "Sesotho",
+  "choose_language": "Rea u amohela ho Farm Market. Khetha puo:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "welcome": "Dumela, Molemi!\n1. Sheba ditheko tsa mmaraka\n2. Bapisa mebaraka\n3. Mmaraka o lefang haholo\n4. Fetola puo\n0. Tsoa",
+  "choose_commodity": "Khetha sehlahiswa:\n1. Ditamati\n2. Poone\n3. Ditapole\n0. Lenane la sehlooho",
+  "choose_compare": "Khetha sehlahiswa seo o batlang ho se bapisa:\n1. Ditamati\n2. Poone\n3. Ditapole\n0. Lenane la sehlooho",
+  "no_prices": "Ha ho ditheko tse fumanehang hona jwale.",
+  "prices_title": "Ditheko tsa {commodity}:",
+  "price_line": "{market}: {price} {currency}/{unit}",
+  "updated": "E ntjhafaditswe: {updated}",
+  "best_title": "Theko e phahameng ka ho fetisisa e tlalehilweng ya {commodity}:",
+  "best_line": "{market}: {price} {currency}/{unit}",
+  "compare_title": "Papiso ya ditheko tsa {commodity}:",
+  "change_language": "Khetha puo:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "invalid": "Khetho eo ha e sebetse. Ka kopo leka hape.",
+  "goodbye": "Rea leboha ka ho sebedisa Farm Market. Sala hantle!",
+  "demo_notice": "DATA YA PONTŠHO – netefatsa ditheko mmarakeng.",
+  "help": "Ditheko di ka fapana ho ya ka boleng le mmaraka. Netefatsa pele o nka leeto."
+}

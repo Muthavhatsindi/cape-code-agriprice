@@ -1,0 +1,19 @@
+{
+  "language_name": "English",
+  "choose_language": "Welcome to Farm Market. Choose language:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "welcome": "Welcome, Farmer!\n1. Check market prices\n2. Compare markets\n3. Best paying market\n4. Change language\n0. Exit",
+  "choose_commodity": "Choose commodity:\n1. Tomatoes\n2. Maize\n3. Potatoes\n0. Main menu",
+  "choose_compare": "Choose commodity to compare:\n1. Tomatoes\n2. Maize\n3. Potatoes\n0. Main menu",
+  "no_prices": "No prices are available for this commodity yet.",
+  "prices_title": "{commodity} market prices:",
+  "price_line": "{market}: {price} {currency}/{unit}",
+  "updated": "Updated: {updated}",
+  "best_title": "Best reported price for {commodity}:",
+  "best_line": "{market}: {price} {currency}/{unit}",
+  "compare_title": "Price comparison for {commodity}:",
+  "change_language": "Choose language:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "invalid": "Sorry, that selection is not valid. Please try again.",
+  "goodbye": "Thank you for using Farm Market. Goodbye!",
+  "demo_notice": "DEMO DATA – verify prices locally before selling.",
+  "help": "Prices are indicative and may vary by grade, quality and market. Confirm with the market before travelling."
+}

@@ -1,0 +1,19 @@
+{
+  "language_name": "isiXhosa",
+  "choose_language": "Wamkelekile kwi-Farm Market. Khetha ulwimi:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "welcome": "Molo, Mfama!\n1. Jonga amaxabiso emarike\n2. Thelekisa iimarike\n3. Eyona marike ihlawula kakhulu\n4. Guqula ulwimi\n0. Phuma",
+  "choose_commodity": "Khetha imveliso:\n1. Iitumato\n2. Umbona\n3. Iitapile\n0. Imenyu ephambili",
+  "choose_compare": "Khetha imveliso yokuthelekisa:\n1. Iitumato\n2. Umbona\n3. Iitapile\n0. Imenyu ephambili",
+  "no_prices": "Akukho maxabiso akhoyo ngoku.",
+  "prices_title": "Amaxabiso ka-{commodity}:",
+  "price_line": "{market}: {price} {currency}/{unit}",
+  "updated": "Ihlaziywe: {updated}",
+  "best_title": "Elona xabiso liphezulu libikiweyo lika-{commodity}:",
+  "best_line": "{market}: {price} {currency}/{unit}",
+  "compare_title": "Uthelekiso lwamaxabiso ka-{commodity}:",
+  "change_language": "Khetha ulwimi:\n1. English\n2. isiZulu\n3. isiXhosa\n4. Sesotho\n5. Afrikaans\n6. Kiswahili",
+  "invalid": "Oko kukhethileyo akuvumelekanga. Zama kwakhona.",
+  "goodbye": "Enkosi ngokusebenzisa i-Farm Market. Sala kakuhle!",
+  "demo_notice": "IDATHA YOKUVAVANYA – qinisekisa amaxabiso emarikeni.",
+  "help": "Amaxabiso ayatshintsha ngokomgangatho nemarike. Qinisekisa phambi kohambo."
+}
